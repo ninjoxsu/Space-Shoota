@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\JOX\\Desktop\\SpaceShoota\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\JOX\\Desktop\\SpaceShoota\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\JOX\\Desktop\\GAME\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\JOX\\Desktop\\GAME\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\SpaceShoota\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Admin\\Desktop\\SpaceShoota\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
